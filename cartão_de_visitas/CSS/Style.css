@@ -1,0 +1,23 @@
+body{
+    background-image: url(../Imagens/backgorund.png);
+    background-size:auto;
+    background-repeat: no-repeat;
+}
+
+.instagram{
+    list-style-image: url(../Imagens/Insta.png);
+    
+    
+}
+.twitter{
+    list-style-image: url(../Imagens/Twitter.png);
+}
+.youtube{
+    list-style-image: url(../Imagens/Youtube.png);
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif:
+}
+.lista{
+    width: fit-content;
+}
